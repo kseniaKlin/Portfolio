@@ -513,12 +513,8 @@ Technologies — внекорабельная деятельность, Wyle Lab
 			<td>2 319 603</td>
 			<td>10.4%</td>
 		</tr>
-	</tbody>
-	<tfoot>
-		<tr>
-			<td colspan="3">1850-2017 Переписи населения в 1790—2010 годах</td>
-		</tr>
-	</tfoot>
+	</tbody>	
+	<caption>1850-2017 Переписи населения в 1790—2010 годах</caption>	
 </table> </br>
 	<figure>
 		<img src="картинки/Race_and_ethnicity_2010_Houston.png">
